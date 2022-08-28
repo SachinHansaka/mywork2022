@@ -12,7 +12,7 @@ public class Main {
 
         String s3 = "sachin";
 
-        String s4 = "Hanz";
+        String s4 = "sachin";
 
         if(s1.equals(s4)){
             System.out.println("same!");
