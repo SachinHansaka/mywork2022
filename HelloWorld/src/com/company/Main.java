@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello everyone this is sachin!");
+        System.out.println("Hello everyone this is sachin..! ");
 
 
         String s1 = new String("sachin");
@@ -12,7 +12,7 @@ public class Main {
 
         String s3 = "sachin";
 
-        String s4 = "sachinH";
+        String s4 = "sachin";
 
         if(s1.equals(s4)){
             System.out.println("same!");
